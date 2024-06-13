@@ -3,7 +3,7 @@
 In this code, the author performs a comprehensive analysis of a dataset containing email data, distinguishing between spam and non-spam messages. The primary steps include data cleaning, exploratory data analysis (EDA), natural language processing (NLP), feature engineering, and model building. Here's a breakdown of the major components and techniques used:
 
 ### 1. **Data Import and Initial Exploration:**
-- The code begins by importing necessary libraries, disabling warnings, and loading the dataset (`mail_data.csv`) into a Pandas DataFrame.
+- The code begins by importing necessary libraries, disabling warnings, and loading the dataset (`spam.csv`) into a Pandas DataFrame.
 - Initial exploration of the dataset includes checking for missing values, handling duplicates, and visualizing the distribution of spam and non-spam messages.
 
 ### 2. **Data Cleaning and Preprocessing:**
